@@ -9,5 +9,6 @@ public class Bag : MonoBehaviour
     private void Start()
     {
         number = 7f;
+        string dumbTdh = "ommtdh is an ugly whore";
     }
 }
