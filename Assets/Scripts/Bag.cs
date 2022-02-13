@@ -5,4 +5,9 @@ using UnityEngine;
 public class Bag : MonoBehaviour
 {   
     private float number;
+
+    private void Start()
+    {
+        number = 7f;
+    }
 }
